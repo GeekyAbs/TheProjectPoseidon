@@ -135,7 +135,7 @@ with st.sidebar:
     api_key = st.text_input(
         "Google API Key",
         type="password",
-        value="AIzaSyC8KURHfyCsXiUc8NszqgGu0b-ZFxV5s9U",
+        value="",
         help="Enter your Google Generative AI API key"
     )
     
