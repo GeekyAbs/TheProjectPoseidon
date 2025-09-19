@@ -4,3 +4,4 @@ pandas
 langchain-google-genai
 langchain-community
 langchain-experimental
+tabulate
